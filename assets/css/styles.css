@@ -1,0 +1,102 @@
+
+
+
+.connect-photo {
+  width: 55px;
+
+  /* Box-model */
+  height: 55px;
+}
+
+.content1 {
+    height: 500px;
+}
+
+#images {
+  /* Box-model */
+  padding-top: 15px;
+
+  /* Typography */
+  text-align: center;
+}
+
+.connect-header {
+    text-align: center;
+}
+
+#profile-image {
+    /* Positioning */
+    float: left;
+    margin-right: 10px;
+}
+#logo  {
+    margin-left: 80px;
+    font-size: 24px;
+
+}
+
+#navbar-collapse-1 {
+    margin-right: 190px;
+    float: right;
+}
+
+/* portfolio page */
+.content2 {
+    float: left;
+    position: relative;
+}
+
+.work {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
+  }
+  
+  .work:nth-child(even) {
+    margin-right: 40px;
+  }
+  
+  .work img {
+    width: 100%;
+    border: 0 none;
+    opacity: 0.8;
+  }
+  
+  .work h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+  }
+  
+  .container-contact {
+      height: 500px;
+      margin-left: 90px;
+  }
+  .contact-row {
+      position: relative;
+  }
+  
+
+.footer {
+    /* Positioning */
+    position: relative;
+    bottom: 0;
+  
+    /* Box */
+    width: 100%;
+    height: 40px;
+    margin-top: 30px;
+  
+    /* Visual */
+    background-color: #070707;
+  }
