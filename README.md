@@ -1,2 +1,7 @@
 # Bootstrap-Portfolio
-bootstrap portfolio for HW2
+Portfolio markup
+
+# Technologies used
+bootstrap
+css
+html
